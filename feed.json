@@ -1,0 +1,55 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "David Schlaepfer",
+	"icon": "https://micro.blog/davidcs/avatar.jpg",
+	"home_page_url": "https://micro.davidcs.net/",
+	"feed_url": "https://micro.davidcs.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://davids.micro.blog/2025/01/27/almost-there.html",
+				
+				"content_html": "<p>Almost there | 27/365</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Almost there | 27/365\n\n<img src=\"uploads/2025/0ed32d85e7.jpg\" width=\"600\" height=\"450\" alt=\"Photograph of a tree limb at blue hour.\">\n",
+				"date_published": "2025-01-27T23:16:15-08:00",
+				"url": "https://micro.davidcs.net/2025/01/27/almost-there.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://davids.micro.blog/2025/01/27/my-current-social-media-habits.html",
+				"title": "My current social media habits.",
+				"content_html": "<p>There’s <a href=\"https://www.washingtonpost.com/technology/2025/01/24/submissions-social-media-habits/\">a form on the Washington Post</a> surveying what people’s social media habits are. It got me thinking and typing so I’m copying some of what I wrote down there, here.</p>\n<hr>\n<p>I lurk on Bluesky for the memes, use Mastodon to follow tech people and some locals, and have been using Glass.photo to connect with photographers (probably my favorite social site right now). But for people close to me, I just text/call/FaceTime, or use a shared album of photos to post family updates with a core group of people. I think these features need to be considered social media as much as any others, and are a much more healthy alternative for fostering connection.</p>\n<p>My wife and I both abandoned Facebook long ago (pre-2016), and now have abandoned Instagram, too. It&rsquo;s where most people we know are, but we just can&rsquo;t deal with the algorithm anymore. My wife in particular kept getting fed posts about dead or dying babies while she was a new mother. The attention machine is so, so broken. She also used TikTok daily until this past summer, when she cut herself off. I never hopped on there in the first place.</p>\n<p>Of course, I no longer use Twitter/X either due to its ownership. That one I outright deleted, the others are just unused.</p>\n<hr>\n<p>I worry that social media has lost the social element. When I first signed up for Facebook in 2011 (when I turned 13, because I&rsquo;m a rule follower), the primary purpose of it was to connect with my friends and family. Attending events, seeing what people are up to, and messaging each other. Everything was rooted in and supported what happened IRL.</p>\n<p>Now things are so much more centered around attention – how long a site can keep eyeballs to sell more sponsored posts. That makes sense for some platforms. YouTube is a good example, since it operates mostly as an analog to TV, which operated on an attention-based model of value anyways. But to inject that into a platform meant to support social interactions is just&hellip; it doesn&rsquo;t make sense to me. <em>That</em> is where everything started to fall apart.</p>\n<p>I&rsquo;d argue that shift in focus also seriously altered our political climate. Which candidate can keep attention the best? Whose name can you simply not escape no matter what platform you use? Want an update on your friend’s mother’s cancer treatments? Sucks, here&rsquo;s something that will outrage you instead and maybe even get a click.</p>\n<p>We need to get back to the social element of social media. Fostering online connections, sure, but also specifically bolstering friendships you have with people face-to-face. It&rsquo;s why the family group chat and the photo share has become our primary &ldquo;social media.&rdquo; Maybe these life updates were never really meant to be broadcasted to the world, but instead &ldquo;narrowcasted.&rdquo;</p>\n<p>Anyways, I&rsquo;m ranting now. Things are clearly very broken, very messed up.</p>\n",
+				"content_text": "There’s [a form on the Washington Post](https://www.washingtonpost.com/technology/2025/01/24/submissions-social-media-habits/) surveying what people’s social media habits are. It got me thinking and typing so I’m copying some of what I wrote down there, here.\n\n---- \nI lurk on Bluesky for the memes, use Mastodon to follow tech people and some locals, and have been using Glass.photo to connect with photographers (probably my favorite social site right now). But for people close to me, I just text/call/FaceTime, or use a shared album of photos to post family updates with a core group of people. I think these features need to be considered social media as much as any others, and are a much more healthy alternative for fostering connection.\n\nMy wife and I both abandoned Facebook long ago (pre-2016), and now have abandoned Instagram, too. It's where most people we know are, but we just can't deal with the algorithm anymore. My wife in particular kept getting fed posts about dead or dying babies while she was a new mother. The attention machine is so, so broken. She also used TikTok daily until this past summer, when she cut herself off. I never hopped on there in the first place.\n\nOf course, I no longer use Twitter/X either due to its ownership. That one I outright deleted, the others are just unused.\n\n---- \nI worry that social media has lost the social element. When I first signed up for Facebook in 2011 (when I turned 13, because I'm a rule follower), the primary purpose of it was to connect with my friends and family. Attending events, seeing what people are up to, and messaging each other. Everything was rooted in and supported what happened IRL.\n\nNow things are so much more centered around attention – how long a site can keep eyeballs to sell more sponsored posts. That makes sense for some platforms. YouTube is a good example, since it operates mostly as an analog to TV, which operated on an attention-based model of value anyways. But to inject that into a platform meant to support social interactions is just... it doesn't make sense to me. *That* is where everything started to fall apart.\n\nI'd argue that shift in focus also seriously altered our political climate. Which candidate can keep attention the best? Whose name can you simply not escape no matter what platform you use? Want an update on your friend’s mother’s cancer treatments? Sucks, here's something that will outrage you instead and maybe even get a click.\n\nWe need to get back to the social element of social media. Fostering online connections, sure, but also specifically bolstering friendships you have with people face-to-face. It's why the family group chat and the photo share has become our primary \"social media.\" Maybe these life updates were never really meant to be broadcasted to the world, but instead \"narrowcasted.\"\n\nAnyways, I'm ranting now. Things are clearly very broken, very messed up.\n\n",
+				"date_published": "2025-01-27T06:00:00-08:00",
+				"url": "https://micro.davidcs.net/2025/01/27/my-current-social-media-habits.html",
+				"tags": ["Personal"]
+			},
+			{
+				"id": "http://davids.micro.blog/2025/01/26/cvs.html",
+				
+				"content_html": "<p>CVS | 26/365</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "CVS | 26/365\n\n<img src=\"uploads/2025/ea7fb0820c.jpg\" width=\"600\" height=\"450\" alt=\"Black and white photograph outside a CVS at night.\">\n",
+				"date_published": "2025-01-26T22:43:01-08:00",
+				"url": "https://micro.davidcs.net/2025/01/26/cvs.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://davids.micro.blog/2025/01/26/falling-off-a-bit.html",
+				
+				"content_html": "<p>Falling off a bit. | 25/265</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Falling off a bit. | 25/265\n\n<img src=\"uploads/2025/d2b9c19d1e.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a tree against a cloudy sky. All leaves have fallen off. Black and white.\">\n",
+				"date_published": "2025-01-26T22:42:06-08:00",
+				"url": "https://micro.davidcs.net/2025/01/26/falling-off-a-bit.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://davids.micro.blog/2025/01/25/onward.html",
+				"title": "🍿 Onward, 2020 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": " <p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/8/2/7/2/438272-onward-0-600-0-900-crop.jpg?v=3a4228d8b9\"/></p> <p>Second time around, liked it more. Probably because I'm a dad now. I do think it's let down by the score a bit. It goes a bit too \"generic fantasy\" for me. I was thinking about how the How to Train Your Dragon soundtrack just completely elevates that movie. This one is relatively unmemorable, and I think actively detracts from some segments.</p> \n<p><a href=\"https://letterboxd.com/theschlaepfer/film/onward-2020/1/\">View on Letterboxd →</a></p>\n",
+				"date_published": "2025-01-25T22:12:20-08:00",
+				"url": "https://micro.davidcs.net/2025/01/25/onward.html",
+				"tags": ["Letterboxd"]
+			}
+	]
+}
